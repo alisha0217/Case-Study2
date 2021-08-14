@@ -1,0 +1,50 @@
+.header{
+    padding:15px;
+    background-color: rgb(143, 132, 194);
+    color:rgb(72, 57, 99);
+    font-family: 'Amatic SC', cursive;
+    height:100px;
+    text-align: center;
+}
+
+.main_testing_div1, .main_testing_div2{
+    font-family: 'Courier Prime', monospace;
+    background-color: rgb(143, 132, 194);
+    padding: 15px;
+    margin-top: 15px;
+    border-radius: 20px;
+    height: 650px;
+    width: 600px;
+    box-shadow: 5px 5px 5px darkslateblue;
+    color:rgb(72, 57, 99);
+}
+
+.main_testing_div1 img{
+    height:300px;
+    width:450px;
+    border-radius: 15px;
+}
+
+.main_testing_div2 img{
+    height:300px;
+    width:250px;
+    border-radius: 15px;
+}
+
+.name_lense, .name_model{
+    font-family: 'Courier Prime', monospace;
+    color:rgb(70, 70, 134);
+}
+
+.footer{
+    font-family: 'Amatic SC', cursive;
+    background-color: rgb(143, 132, 194);
+    height: 290px;
+    text-align: center;
+    bottom:0px;
+}
+
+
+
+
+
